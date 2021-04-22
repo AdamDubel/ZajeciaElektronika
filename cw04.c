@@ -1,12 +1,11 @@
-#include <stdio.h>
 
 int main()
 {
 int n;
 int i;
-i=1;
+i=2;
 unsigned long long wynik;
-wynik=1;
+wynik=2;
 printf("Program wypisuje wartosci silni malejaco. Podaj prosze wartosc calkowita z zakresu od 0 do 20\n n=");
 scanf("%d" , &n);
 for(n=n;n>0;n--)
